@@ -1,0 +1,11 @@
+.CenterBar {
+  display: flex;
+  background-color: grey;
+  justify-content: center; /* Center-aligns items horizontally */
+}
+
+.CenterBar p {
+  text-align: center;
+  font-weight: bold;
+  display: block;
+}

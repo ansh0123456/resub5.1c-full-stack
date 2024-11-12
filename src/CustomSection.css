@@ -1,0 +1,48 @@
+.custom-section {
+  width: 1550px;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center; /* Center-aligns the text */
+}
+
+h2 {
+  background-color: grey;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center; /* Center-aligns the heading */
+}
+
+.Class {
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.Question1,
+.Question3 {
+  display: inline-block;
+  width: 92%;
+  margin: 10px auto; /* Centers the elements */
+  padding: 10px;
+}
+
+.Question2 {
+  display: inline-block;
+  width: 95%;
+  height: 200px;
+  margin: 10px auto; /* Centers the element */
+}
+
+.post {
+  margin-top: 15px;
+  padding: 15px;
+  text-align: center;
+  display: block;
+  width: 10%;
+  background-color: gray;
+  color: black;
+  font-size: 18px;
+  margin-left: auto; /* Center-aligns the post button */
+  margin-right: auto;
+  margin-block-end: 1250px;
+}

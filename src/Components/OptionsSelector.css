@@ -1,0 +1,25 @@
+.Selector {
+  text-align: center; /* Center-aligns the text */
+}
+
+.Options {
+  margin: 0 auto; /* Centers the element horizontally */
+  display: inline-block;
+}
+
+.Option {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.Selected {
+  margin: 0 auto;
+  font-size: 20px;
+  display: block;
+  text-align: center;
+}
